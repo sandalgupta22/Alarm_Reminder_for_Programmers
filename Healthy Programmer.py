@@ -1,11 +1,3 @@
-# Healthy Programmer excercise 7
-
-# water - 40 min - alarm - log with time
-# eyes - 30 min - alarm - log with time
-# physical - 45 min - alarm - log with time
-
-
-
 
 from time import time
 from datetime import datetime
